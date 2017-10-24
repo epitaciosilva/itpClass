@@ -27,6 +27,7 @@ void create_planta ( Estoque * _estoque );
 void show_planta ( Estoque * _estoque );
 void sell_planta ( Estoque * _estoque );
 void show_estatisticas ( Estoque * _estoque );
+
 /*
 * Estoque de floricultura
 */
